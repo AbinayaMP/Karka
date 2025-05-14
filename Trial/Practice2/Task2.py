@@ -1,0 +1,98 @@
+#1
+date_Of_Birth="07-08-2003"
+First_Name="Abinaya"
+print(date_Of_Birth)
+print(First_Name)
+#2
+def add():
+    a=10
+    b=20
+    c=a+b
+    print(c)
+add()
+#3
+r=12
+a=3.14
+area_of_circle=a*r*r
+print(area_of_circle)
+#4
+length=10
+width=20
+area=length*width
+print(area)
+#5
+base=20
+height=50
+area=(base*height)/2
+print(area)
+#6
+a=10
+b=20
+c=a+b,a-b,a*b,a/b
+print(c)
+#7
+a=10
+a+=5
+b=10
+b-=5
+c=10
+c*=5
+d=10
+d/=5
+print(a)
+print(b)
+print(c)
+print(d)
+#8
+a=10
+a+=5
+print(a)
+b=20
+b-=5
+print(b)
+#9
+a=10
+b=20
+print(a==b)
+print(a!=b)
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
+#10
+a=10
+print(a>=5 and a<=11)
+print(a<=20 and a>=11)
+print(a>=5 or a<=20)
+print(a>=11 or a<=8)
+#11
+a=10
+b=20
+c=a
+a=b
+b=c
+print(a,b)
+#12
+a=10
+b=20
+c=30
+avg=(a+b+c)/3
+print(avg)
+#13
+a=10
+b=30
+c=12
+d=3
+print(a+b)
+print((a+b)*c)
+print(((a+b)*c)/d)
+#14
+tamil=90
+english=95
+maths=98
+science=93
+social=100
+total_marks=tamil+english+maths+science+social
+avg=(total_marks)/5
+print(total_marks)
+print(avg)
