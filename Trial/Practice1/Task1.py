@@ -7,13 +7,13 @@ print("Name:Abinaya MP")
 print("age:21")
 #4
 print("Name:Abinaya MP")
-print("age:"21)
-print("cgpa:"8.10)
+print("age:",21)
+print("cgpa:",8.10)
 print("isStudent:True")
 #5
 name="Abinaya MP"
 age=21
-print("My name is",name "and my age is",age)
+print("My name is",name,"and my age is",age)
 #6
 a="Name:Abinaya MP"
 b="age:21"
@@ -52,10 +52,10 @@ height=159.1
 weight=50.10
 degree="BE in ECE"
 gender="Female"
-print(name)
-print(age)
-print(date_Of_Birth)
-print(height)
-print(weight)
-print(degree)
-print(gender)
+print("My name is:" ,name)
+print("My age is:" ,age)
+print("My DOB is:",date_Of_Birth)
+print("My height is:" ,height)
+print("My weight is:" ,weight)
+print("My degree is:" ,degree)
+print("My gender is:" ,gender)
