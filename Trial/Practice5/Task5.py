@@ -27,7 +27,14 @@ for i in a :
   total+=i
   avg=total/len(a)
   print(avg)
-#7
+#7 square
+n=5
+for i in range(n) :
+  row=""
+  for j in range(n) :
+    row += "*"
+  print(row)
+#7 rectangle
 n=5
 l=10
 for i in range(n) :
