@@ -1,0 +1,27 @@
+.box {
+            border: 2px solid black;
+            padding: 10px;
+            margin: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start; 
+            gap: 20px;
+            width: 800px;
+        }
+
+        .section-title {
+            background-color: #cce0f5;
+            font-weight: bold;
+            padding: 5px;
+            margin-top: 10px;
+        }
+        .dog-img {
+            width: 200px;
+            object-fit: cover;
+            margin-top:50px;
+            height: 250px;
+        }
+
+        .left-content {
+            flex: 1;
+        }
