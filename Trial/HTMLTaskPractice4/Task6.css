@@ -1,0 +1,59 @@
+        .one{
+            border: 3px solid black;
+            width: 800px;
+            height: 800px;
+            background-color: rgb(112, 112, 243);
+        }
+        .two{
+              border: 3px solid white;
+              width:600px;
+              height: 715px;
+              background-color: white;
+              margin-top: 10%;
+              text-align: right; 
+              font-family: sans-serif; 
+        }
+        .three{
+            text-align: left;
+            text-indent: 30px;
+            font-family: sans-serif;
+        }
+        .four{
+            text-align: left;
+            text-indent: 30px;
+        }
+        .four p{
+            text-indent: 3px;
+            margin-right: 200px;
+            margin-left: 20px;
+         
+        }
+        
+        aside {
+            float: right;
+            width: 30%;
+            margin-left: 20px;      
+            align-items: center;
+            justify-content: center;
+
+  
+ 
+}
+
+.useful-links {
+  background-color: #ffcc5c;
+  padding: 10px;
+  border: 2px solid #f94e4e;
+}
+
+.useful-links h3 {
+  margin-top: 0;
+  background-color: #f94e4e;
+  color: white;
+  padding: 5px;
+}
+
+.useful-links a {
+  text-decoration: none;
+  color: #333;
+}
