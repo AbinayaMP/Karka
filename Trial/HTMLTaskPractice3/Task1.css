@@ -1,0 +1,22 @@
+
+        .one{
+            height: 600px;
+            width: 80%;
+            border: 2px solid black;
+        }
+        .two{
+            text-indent: 60px;
+        }
+        .three{
+            width: 100%;
+            height: 111px;
+            background-color: black;
+        }
+        .three
+        p{padding: 10px;
+        }
+        .four{
+            margin-left: 100px;
+            margin-right: 150px;
+        }
+        
