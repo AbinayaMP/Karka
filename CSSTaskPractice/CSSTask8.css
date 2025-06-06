@@ -1,0 +1,65 @@
+  .head{
+            position: absolute;
+            width: 500px;
+            height: 100px;
+            background-color: rgb(66, 62, 62);
+        }
+        .head1{
+            position: absolute;
+            left: 205px;
+            top: 35px;
+
+        }
+        .nav{
+            position: absolute;
+            width: 500px;
+            height: 30px;
+            background-color: rgb(158, 153, 153);
+            top: 110px;
+        }
+        .nav1{
+            position: absolute;
+            left: 70px;
+            top: 3px;
+        }
+        .main{
+            position: absolute;
+            width: 260px;
+            height: 500px;
+            top: 155px;
+            left: 50px;
+            background-color:rgb(192, 184, 184);
+        }
+        .main1{
+            position: absolute;
+            top: 240px;
+            left: 60px;
+
+        }
+        .main2{
+            position: absolute;
+            width: 140px;
+            height: 500px;
+            top: 155px;
+            left: 320px;
+            background-color: rgb(211, 197, 197);
+        }
+        .main3{
+            position: absolute;
+            top: 240px;
+            left: 30px;
+
+        }
+        .foot{
+            position: absolute;
+            width: 500px;
+            height: 100px;
+            background-color: rgb(65, 61, 61);
+            top: 670px;
+            position: fixed;
+        }
+        .foot1{
+            position: absolute;
+            left: 205px;
+            top: 35px;
+        }
