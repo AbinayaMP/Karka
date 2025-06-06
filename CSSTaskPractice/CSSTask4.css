@@ -1,0 +1,119 @@
+.child{
+            border: 10px solid rgb(106, 106, 248);
+            width: 648px;
+            height: 83px;
+            position: absolute;
+            left: 10px;
+            top: 50px;
+            background-color: whitesmoke;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+          .child:hover{
+            background-color: lightblue;
+          }
+        .child1{
+            text-align: center;
+            top:40px;
+            left: 303px;   
+            position: absolute;   
+            font-family: sans-serif;
+          }
+        
+          .child2{
+             border: 10px solid rgb(106, 106, 248);
+            width: 100px;
+            height: 150px;
+            position: absolute;
+            left: 10px;
+            top: 164px;
+            background-color: whitesmoke;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            
+          }
+          .child2:hover{
+            background-color: lightblue;
+          }
+
+          .child3{
+            text-align: center;
+            top: 24px;
+            left: 38px;   
+            position: absolute;   
+            font-family: sans-serif;
+
+          }
+          .child4{
+            border: 10px solid rgb(106, 106, 248);
+            width: 244px;
+            height: 75px;
+            position: absolute;
+            left: 140px;
+            top: 165px;
+            background-color: whitesmoke;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+          }
+          .child4:hover{
+            background-color: lightblue;
+          }
+          .child5{
+            text-align: center;
+            top: 22px;
+            left: 102px;   
+            position: absolute;   
+            font-family: sans-serif;
+          }
+          .child6{
+            border: 10px solid rgb(106, 106, 248);
+            width: 244px;
+            height: 75px;
+            position: absolute;
+            left: 414px;
+            top: 165px;
+            background-color: whitesmoke;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+          }
+          .child6:hover{
+            background-color: lightblue;
+          }
+          .child7{
+            text-align: center;
+            top: 26px;
+            left: 110px;   
+            position: absolute;   
+            font-family: sans-serif;
+        }
+        .child8{
+            border: 10px solid rgb(106, 106, 248);
+            width: 515px;
+            height: 44px;
+            position: absolute;
+            left: 142px;
+            top: 270px;
+            background-color:whitesmoke;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        .child8:hover{
+            background-color: lightblue;
+        }
+        .child9{
+            text-align: center;
+            top: 22px;
+            left: 238px;   
+            position: absolute;   
+            font-family: sans-serif;
+        }
