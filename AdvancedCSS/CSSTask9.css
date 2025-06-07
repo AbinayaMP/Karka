@@ -1,0 +1,134 @@
+.child1{
+            width: 600px;
+            height: 35px;
+            background-color:  #4F7C7B;
+        }
+        .child2{
+            text-align: left;
+            position: absolute;
+            top: 16px;
+            left: 20px;
+        }
+        .child3{
+            width: 600px;
+            height: 624px;
+            background-color:lightblue;
+            position: absolute;
+            left: 10px;
+            top: 80px;
+        }
+        .child4{
+            width: 600px;
+            height: 100px;
+            position: absolute;
+            left: -1px;
+            top: -1px;
+            background-color:#A1C5C8;
+            text-align: center;
+        }
+        .child5{
+            text-align: center;
+            top: 38px;
+            left: 270px;
+            position: absolute;
+        }
+        .child6{
+            position: absolute;
+            width: 357px;
+            height: 200px;
+            left: 19px;
+            top: 121px;
+            background-color:  #A1C5C8;
+        }
+        .child7{
+            text-align: center;
+            top: 83px;
+            left: 141px;
+            position: absolute;
+        }
+        .child8{
+            position: absolute;
+            width: 185px;
+            height: 141px;
+            left: 393px;
+            top: 121px;
+            background-color: #A1C5C8;
+        }
+        .child9{
+            text-align: center;
+            top: 62px;
+            left: 57px;
+            position: absolute;
+        }
+        .child10{
+            position: absolute;
+            width: 185px;
+            height: 46px;
+            left: 394px;
+            top: 276px;
+            background-color: rgb(139, 201, 14);
+        }
+        .child11{
+            text-align: center;
+            top: 15px;
+            left: 50px;
+            position: absolute;
+
+        }
+        .child12{
+            position: absolute;
+            width: 560px;
+            height: 100px;
+            left: 17px;
+            top: 335px;
+            background-color: #A1C5C8;
+        }
+        .child13{
+            text-align: center;
+            top: 33px;
+            left: 243px;
+            position: absolute;
+        }
+        .child14{
+            position: absolute;
+            width: 351px;
+            height: 62px;
+            left: 17px;
+            top: 448px;
+            background-color: #A1C5C8;
+        }
+        .child15{
+            text-align: center;
+            top: 22px;
+            left: 128px;
+            position: absolute;
+        }
+        .child16{
+            position: absolute;
+            width: 185px;
+            height: 57px;
+            left: 391px;
+            top: 451px;
+            background-color: rgb(139, 201, 14);
+        }
+        .child17{
+            text-align: center;
+            top: 20px;
+            left: 59px;
+            position: absolute;
+        }
+        .child18{
+            width: 600px;
+            height: 100px;
+            position: absolute;
+            left: -1px;
+            top: 522px;
+            background-color: #A1C5C8;
+            text-align: center;
+        }
+        .child19{
+            text-align: center;
+            top: 44px;
+            left: 280px;
+            position: absolute;
+        }
