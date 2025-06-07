@@ -1,0 +1,221 @@
+  .parent{
+            position: relative;
+            width: 700px;
+            height: 675px;
+            background-color: rgb(233, 227, 227);
+        }
+        .head{
+            text-align: center;
+            margin-top: 30px;
+            padding: 10px;
+           
+        }
+        .head1{
+            text-align: center;
+            margin-top: 2px;
+            padding: 1px;
+        }
+        .head2{
+            width: 700px;
+            height: 30px;
+            position: absolute;
+            top: 140px;
+            background-color: rgb(87, 78, 78);
+        }
+        .head3{
+            text-align: left;
+            left: 5px;
+            position: absolute;
+            top: 4px;
+        }
+        .head4{
+            text-align: left;
+            left: 50px;
+            position: absolute;
+            top: 4px;
+        }
+        .head5{
+            text-align: left;
+            left: 100px;
+            position: absolute;
+            top: 4px;
+        }
+        .head6{
+            text-align: left;
+            left: 660px;
+            position: absolute;
+            top: 4px;
+        }
+        .body1{
+            width: 480px;
+            height: 200px;
+            position: absolute;
+            left: 20px;
+            top: 190px;
+            background-color: white;
+        }
+        .body2{
+            text-align: left;
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+        .body3{
+            text-align: left;
+            position: absolute;
+            top: 35px;
+            left: 10px;
+        }
+        .body4{
+            width: 450px;
+            height: 50px;
+            top: 75px;
+            left: 10px;
+            position: absolute;
+            background-color: rgb(192, 190, 190);
+        }
+        .body5{
+            position: absolute;
+            top: 3px;
+            left: 10px;
+        }
+        .body6{
+            position: absolute;
+            top: 60px;
+
+        }
+        .body7{
+            width: 480px;
+            height: 200px;
+            position: absolute;
+            left: 0.5px;
+            top: 210px;
+            background-color: white;
+        }
+        .body8{
+            text-align: left;
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+        .body9{
+            text-align: left;
+            position: absolute;
+            top: 35px;
+            left: 10px;
+        }
+        .body10{
+            width: 450px;
+            height: 50px;
+            top: 75px;
+            left: 10px;
+            position: absolute;
+            background-color: rgb(192, 190, 190);
+        }
+        .body11{
+            position: absolute;
+            top: 3px;
+            left: 10px;
+        }
+        .body12{
+            position: absolute;
+            top: 60px;
+
+        }
+        .rytbody1{
+            width: 173px;
+            height: 120px;
+            position: absolute;
+            top: 0.5px;
+            left: 500px;
+            background-color: white;
+        }
+        .ryt2{
+            position: absolute;
+            left: 10px;
+            top: 10px;
+        }
+        .ryt3{
+            position: absolute;
+            width: 150px;
+            height: 35px;
+            top: 35px;
+            left: 10px;
+            background-color: rgb(192, 190, 190);
+        }
+        .ryt4{
+            position: absolute;
+            top: 7px;
+            left: 5px;
+        }
+        .ryt5{
+            position: absolute;
+            top: 80px;
+            left: 5px;
+        }
+        .rytbody2{
+            width: 173px;
+            height: 165px;
+            position: absolute;
+            top: 135px;
+            left: 500px;
+            background-color: white;
+        }
+        .ryt6{
+            position: absolute;
+            left: 10px;
+            top: 10px;
+        }
+        .ryt7{
+            position: absolute;
+            width: 150px;
+            height: 110px;
+            top: 35px;
+            left: 10px;
+            background-color: rgb(192, 190, 190);
+        }
+        .ryt8{
+            position: absolute;
+            top: 4px;
+            left: 5px;
+        }
+        .ryt9{
+            position: absolute;
+            top: 40px;
+            left: 5px;
+        }
+        .ryt10{
+            position: absolute;
+            top: 80px;
+            left: 5px;
+        }
+        .rytbody3{
+            width: 173px;
+            height: 65px;
+            position: absolute;
+            top: 315px;
+            left: 500px;
+            background-color: white;
+        }
+        .ryt11{
+            position: absolute;
+            left: 10px;
+            top: 10px;
+        }
+        .ryt12{
+            position: absolute;
+            left: 10px;
+            top: 30px;
+        }
+        .footer{
+            width: 675px;
+            height: 80px;
+            position: absolute;
+            top: 425px;
+            background-color: lightgrey;
+        }
+        .foot{
+            position: absolute;
+            left:325px ;
+            top: 25px;
+        }
