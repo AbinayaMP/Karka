@@ -1,0 +1,82 @@
+ .head{
+            width: 500px;
+            height: 130px;
+            position: absolute;
+            background-color: rgb(39, 37, 37);
+        }
+        .head1{
+            position: absolute;
+            left: 210px;
+            top: 50px;
+
+        }
+        .nav{
+            width: 500px;
+            height: 35px;
+            position: absolute;
+            background-color: rgb(78, 73, 73);
+            top: 145px;
+        }
+        .nav1{
+            position: absolute;
+            left: 180px;
+            top: 5px;
+
+        }
+        .body{
+            width: 500px;
+            height: 370px;
+            position: absolute;
+            background-color: lightgrey;
+            top: 186px;
+        }
+        .slide{
+            width: 475px;
+            height: 200px;
+            position: absolute;
+            background-color: rgb(65, 62, 62);
+            top: 10px;
+            left: 10px;
+        }
+        .slide1{
+            position: absolute;
+            left: 180px;
+            top: 70px;
+        }
+        .box{
+            width: 135px;
+            height: 90px;
+            position: absolute;
+            top: 240px;
+            left: 10px;
+            background-color: white;
+        }
+        .box1{
+            width: 135px;
+            height: 90px;
+            position: absolute;
+            top: 240px;
+            left: 180px;
+            background-color: white;
+        }
+        .box2{
+            width: 135px;
+            height: 90px;
+            position: absolute;
+            top: 240px;
+            left: 348px;
+            background-color: white;
+        }
+        .foot{
+            width: 500px;
+            height: 40px;
+            position: absolute;
+            background-color: rgb(66, 62, 62);
+            top: 565px;
+        }
+        .foot1{
+            position: absolute;
+            left: 210px;
+            top: 5px;
+        }
+        
