@@ -1,0 +1,105 @@
+.child1{
+            border: 1px solid rgb(228, 223, 223);
+            width: 600px;
+            height: 50px;
+            position: absolute;
+            left: 10px;
+            top: 10px;
+            background-color: rgb(207, 200, 200);
+        }
+        .child2{
+            text-align: center;
+            position: absolute;
+            left: 268px;
+            top: 15px;
+        }
+        .child3{
+            border: 1px solid rgb(207, 200, 200);
+            width: 600px;
+            height: 60px;
+            position: absolute;
+            left: 10px;
+            top: 69px;
+            background-color:rgb(207, 200, 200) ;
+        }
+       .nav {
+            display: flex;
+            justify-content: center; 
+            gap: 20px; 
+            padding: 10px;
+            }
+            .child4{
+            border: 1px solid rgb(207, 200, 200);
+            width: 600px;
+            height: 100px;
+            position: absolute;
+            left: -1px;
+            top: 78px;
+            background-color: rgb(207, 200, 200);
+            }
+            .child5{
+            display: flex;
+            justify-content: center; 
+            gap: 20px; 
+            padding: 1px;
+            }
+            .child6{
+            border: 1px solid rgb(207, 200, 200);
+            width: 176px;
+            height: 100px;
+            position: absolute;
+            left: -1px;
+            top: 194px;
+            background-color:rgb(207, 200, 200);
+            }
+            .child7{
+            display: flex;
+            justify-content: center; 
+            gap: 20px; 
+            padding: 10px;
+            }
+            .child8{
+            border: 1px solid rgb(207, 200, 200);
+            width: 176px;
+            height: 100px;
+            position: absolute;
+            left: 209px;
+            top: 194px;
+            background-color:rgb(207, 200, 200);
+            }
+            .child9{
+            display: flex;
+            justify-content: center; 
+            gap: 20px; 
+            padding: 10px;
+            }
+            .child10{
+            border: 1px solid rgb(207, 200, 200);
+            width: 176px;
+            height: 100px;
+            position: absolute;
+            left: 422px;
+            top: 194px;
+            background-color:rgb(207, 200, 200);
+            }
+            .child11{
+            display: flex;
+            justify-content: center; 
+            gap: 20px; 
+            padding: 10px;
+            }
+            .child12{
+            border: 1px solid rgb(207, 200, 200);
+            width: 600px;
+            height: 60px;
+            position: absolute;
+            left: -2px;
+            top: 320px;
+            background-color: rgb(207, 200, 200);
+            }
+            .child13{
+            display: flex;
+            justify-content: center; 
+            gap: 20px; 
+            padding: 10px;
+            }
