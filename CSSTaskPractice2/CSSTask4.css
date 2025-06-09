@@ -1,0 +1,459 @@
+ .parent{
+    border-radius: 25px;
+            width: 603px;
+            height: 300px;
+            position: relative;
+           
+                border-bottom-right-radius: 25px;
+                border-top-left-radius: 25px;
+                border-bottom-left-radius: 25px;
+     border-top-right-radius: 25px;
+     background-color: white;
+     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            
+        }
+        .head1{
+            position: absolute;
+            height: 70px;
+            color: black;
+            width: 603px;
+       background: linear-gradient(
+  to right,
+  #0e4a3e 0%,
+  #0e4a3e 10%,
+  #1b6b58 10%,
+  #1b6b58 20%,
+  #34c3a3 20%,
+  #34c3a3 25%,
+  #0e4a3e 25%,
+  #0e4a3e 35%,
+  #22a186 35%,
+  #22a186 40%,
+  #0e4a3e 40%,
+  #0e4a3e 50%,
+  #2bb89a 50%,
+  #2bb89a 55%,
+  #1c705a 55%,
+  #1c705a 65%,
+  #0e4a3e 65%,
+  #0e4a3e 100%
+);
+.head2{
+    text-align: left;
+            padding: 10px;
+            justify-content: left;
+            left: 67px;
+            top: 15px;
+            position: absolute;
+            font-family: sans-serif;
+            letter-spacing: 0px;
+            font-size: 17px;
+            color: white;
+}
+.head3{
+     text-align: left;
+            padding: 10px;
+            justify-content: left;
+            left: 400px;
+            top: 10px;
+            position: absolute;
+            font-family: sans-serif;
+            letter-spacing: 0px;
+            font-size: 25px;
+            color: white;
+}
+.head4{
+       position: absolute;
+            left: 500px;
+            top: 200px;
+        #im{
+    position: absolute;
+    transform:rotate(45deg);
+    top:100px;
+    left: 100px;
+   
+        }
+}
+        }
+        .body{
+            height: 199px;
+            position: absolute;
+            width: 603px;
+            top: 70px;
+            padding: auto;
+        }
+        .qr{
+            position: absolute;
+            top: -4px;
+            left: 78px;
+          .qr-container {
+      text-align: center; 
+      margin-top: 50px;
+    }
+
+    .qr-code {
+      width: 82px; 
+      height: auto;
+    }
+        }
+        .body1{
+            position: absolute;
+            top: 14px;
+            left: 82px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+       
+       
+        .body4{
+            position: absolute;
+            top: 17px;
+            left: 356px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body5{
+            position: absolute;
+            top: 69px;
+            left: -275px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body6{
+              position: absolute;
+            top: -4px;
+            left: 39px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body7{
+            position: absolute;
+            top: 46px;
+            left: -36px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body8{
+               position: absolute;
+            top: -4px;
+            left: 39px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body9{
+            position: absolute;
+            top: 46px;
+            left: -40px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body10{
+            position: absolute;
+            top: -4px;
+            left: 39px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body11{
+                position: absolute;
+            top: 0px;
+            left: 159px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body12{
+             position: absolute;
+            top: -4px;
+            left:23px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body13{
+            position: absolute;
+            top: 0px;
+            left: 169px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body14{
+             position: absolute;
+            top: -4px;
+            left:55px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body15{
+            position: absolute;
+            top: -92px;
+            left: -54px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body16{
+                 position: absolute;
+left: -341px;
+top: -103px;
+transform: scale(1);
+transform: rotate(270deg);
+   #im{
+    position: absolute;
+    transform:rotate(45deg);
+    top:-20px;
+    left: 20px;
+        }
+
+        }
+     
+
+   .foot{
+        position: absolute;
+        width: 603px;
+        height: 29px;
+        background: linear-gradient(
+  to right,
+  #0e4a3e 0%,
+  #0e4a3e 10%,
+  #1b6b58 10%,
+  #1b6b58 20%,
+  #34c3a3 20%,
+  #34c3a3 25%,
+  #0e4a3e 25%,
+  #0e4a3e 35%,
+  #22a186 35%,
+  #22a186 40%,
+  #0e4a3e 40%,
+  #0e4a3e 50%,
+  #2bb89a 50%,
+  #2bb89a 55%,
+  #1c705a 55%,
+  #1c705a 65%,
+  #0e4a3e 65%,
+  #0e4a3e 100%
+);
+        top: 30px;
+        left: -411px;
+        border-bottom-right-radius: 25px;
+        border-bottom-left-radius: 25px;
+
+    }
+    .foot1{
+        position: absolute;
+        top: 136px;
+        left: -418px;
+        font-family: 'Bebas Neue', sans-serif;
+    }
+    .foot2{
+         position: absolute;
+        top: 156px;
+        left: -418px;
+        font-family: 'Bebas Neue', sans-serif;
+    }
+    .foot3{
+        position: absolute;
+        top: 136px;
+        left: -329px;
+        font-family: 'Bebas Neue', sans-serif;
+
+    }
+    .foot4{
+         position: absolute;
+        top: 156px;
+        left: -327px;
+        font-family: 'Bebas Neue', sans-serif;
+    }
+    .foot5{
+          position:absolute;
+            left:374px;
+            top:-25px;
+            transform: rotate(90deg);
+    }
+    .foot6{
+         position:absolute;
+    margin-left:-92px;
+    margin-top:641px;
+      transform: scale(0.6);
+
+    }
+    .ryt{
+         width: 249px;
+    height: 300px;
+    position: absolute;
+    left: 191px;
+    top: -241px;
+     border-bottom-right-radius: 25px;
+     border-top-right-radius: 25px; 
+     background-color: white;
+     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+     background: linear-gradient(
+  to right,
+  #0e4a3e 0%,
+  #0e4a3e 10%,
+  #1b6b58 10%,
+  #1b6b58 20%,
+  #34c3a3 20%,
+  #34c3a3 25%,
+  #0e4a3e 25%,
+  #0e4a3e 35%,
+  #22a186 35%,
+  #22a186 40%,
+  #0e4a3e 40%,
+  #0e4a3e 50%,
+  #2bb89a 50%,
+  #2bb89a 55%,
+  #1c705a 55%,
+  #1c705a 65%,
+  #0e4a3e 65%,
+  #0e4a3e 100%
+);
+    height: 72px;
+    border-top-right-radius: 25px;
+    }
+    .ryt1{
+        position: absolute;
+left: 25px;
+top: 14px;
+    }
+    .ryt2{
+            position: absolute;
+left: 164px;
+top: 17px;
+transform: scale(1);
+transform: rotate(270deg);
+    }
+
+    .ryt4{
+position: absolute;
+left: 28px;
+top: 85px;
+    }
+    .ryt5{
+         position: absolute;
+left: 0px;
+top: 21px;
+    }
+    .ryt6{
+        position: absolute;
+left: 1px;
+top: 38px;
+    }
+    .ryt7{
+           position: absolute;
+left: 38px;
+top: 0px;
+    }
+    .ryt8{
+              position: absolute;
+left: 1px;
+top: 38px;
+    }
+    .ryt9{
+              position: absolute;
+left: 40px;
+top: 0px;
+    }
+    .ryt10{
+                   position: absolute;
+left: 1px;
+top: 38px;
+    }
+    .ryt11{
+                   position: absolute;
+left: 39px;
+top: 0px;
+    }
+    .ryt12{
+                    position: absolute;
+left: 0px;
+top: 35px;
+    }
+    .ryt13{
+             position: absolute;
+left: 88px;
+top: 35px;
+    }
+    .ryt14{
+             position: absolute;
+left: 152px;
+top: -111px;
+    }
+    .ryt15{
+          position: absolute;
+left: -px;
+top: 120px;
+    }
+    
+
+    .rytl{
+        width: 247px;
+        height: 30px;
+        position: absolute;
+        top:270px;
+        left: 0px;
+       background: linear-gradient(
+  to right,
+  #0e4a3e 0%,
+  #0e4a3e 10%,
+  #1b6b58 10%,
+  #1b6b58 20%,
+  #34c3a3 20%,
+  #34c3a3 25%,
+  #0e4a3e 25%,
+  #0e4a3e 35%,
+  #22a186 35%,
+  #22a186 40%,
+  #0e4a3e 40%,
+  #0e4a3e 50%,
+  #2bb89a 50%,
+  #2bb89a 55%,
+  #1c705a 55%,
+  #1c705a 65%,
+  #0e4a3e 65%,
+  #0e4a3e 100%
+);
+        border-bottom-right-radius: 25px;
+    }
+    .rytla{
+       
+        width: 100px;
+        height: 30px;
+        position: absolute;
+        top:71px;
+        left: -112px;
+        background: linear-gradient(
+  to right,
+  #0e4a3e 0%,
+  #0e4a3e 10%,
+  #1b6b58 10%,
+  #1b6b58 20%,
+  #34c3a3 20%,
+  #34c3a3 25%,
+  #0e4a3e 25%,
+  #0e4a3e 35%,
+  #22a186 35%,
+  #22a186 40%,
+  #0e4a3e 40%,
+  #0e4a3e 50%,
+  #2bb89a 50%,
+  #2bb89a 55%,
+  #1c705a 55%,
+  #1c705a 65%,
+  #0e4a3e 65%,
+  #0e4a3e 100%
+);
+    }
+    .d1{
+         margin: 0;
+  height: 41vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  top: -328px;
+  left: -30px;
+    }
+    .d12{
+         width: 10px;
+  height: 63%;
+  border-left: 4px dashed #48B59D; 
+    }
+
+ .head5{
+          position:absolute;
+            left:-374px;
+            top:-25px;
+            transform: rotate(90deg);
+    }
+    .head6{
+         position:absolute;
+    margin-left:-37px;
+    margin-top:-101px;
+      transform: scale(0.7);
+
+    }
