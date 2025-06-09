@@ -1,0 +1,360 @@
+  .parent{
+    border-radius: 25px;
+            width: 603px;
+            height: 269px;
+            position: relative;
+            background-color:blue;
+                border-bottom-right-radius: 25px;
+                border-top-left-radius: 25px;
+                border-bottom-left-radius: 25px;
+     border-top-right-radius: 25px;
+     background-color: white;
+     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      background-image: url("https://media.istockphoto.com/id/2020863142/vector/vector-hand-drawn-outline-of-a-world-map-continents-drawing.jpg?s=170667a&w=0&k=20&c=ov1A5SJMvERbXbhY_rFnQUztAoFWUHbvacDHQQD0spk=");
+            
+        }
+        .head1{
+           
+            position: absolute;
+            height: 70px;
+            color: black;
+            width: 603px;
+            background-color: #00a9e0;
+            border-top-left-radius: 25px;
+           
+            opacity: 0.5;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .head2{
+            text-align: left;
+            padding: 10px;
+            justify-content: left;
+            left: 65px;
+            top: 4px;
+            position: absolute;
+            font-family: sans-serif;
+            letter-spacing: 0px;
+            font-size: 17px;
+            color: white;
+        }
+        .head3{
+            text-align: left;
+            padding: 10px;
+            justify-content: left;
+            left: 67px;
+            top: 34px;
+            position: absolute;
+            font-family: sans-serif;
+            letter-spacing: 0px;
+            font-size: 17px;
+            color: white;
+        }
+
+    
+        .body{
+            border-radius: 25px;
+            height: 198px;
+            position: absolute;
+            width: 603px;
+            top: 70px;
+            padding: auto;
+             background-image: url("https://media.istockphoto.com/id/2020863142/vector/vector-hand-drawn-outline-of-a-world-map-continents-drawing.jpg?s=170667a&w=0&k=20&c=ov1A5SJMvERbXbhY_rFnQUztAoFWUHbvacDHQQD0spk=");
+        }
+        .body1{
+            position: absolute;
+            top: 14px;
+            left: 82px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body2{
+            position: absolute;
+            top: 14px;
+            left: 231px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body3{
+            position: absolute;
+            top: 12px;
+            left: 362px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body4{
+            position: absolute;
+            top: -1px;
+            left: 146px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body5{
+            position: absolute;
+            top: 69px;
+            left: -388px;
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .body6{
+             position: absolute;
+            left: -241px;
+            top: 75px;
+        #im{
+    position: absolute;
+    transform:rotate(45deg);
+    top:-20px;
+    left: 20px;
+        }
+    }
+    .body7{
+        position: absolute;
+        bottom: -7.5px;
+        left: 74px;
+        font-family: 'Bebas Neue', sans-serif;
+    }
+
+    .foot1{
+        position: absolute;
+        top: 136px;
+        left: -418px;
+        font-family: 'Bebas Neue', sans-serif;
+    }
+    .foot2{
+         position: absolute;
+        top: 156px;
+        left: -418px;
+        font-family: 'Bebas Neue', sans-serif;
+    }
+    .foot3{
+        position: absolute;
+        top: 136px;
+        left: -329px;
+        font-family: 'Bebas Neue', sans-serif;
+
+    }
+    .foot4{
+         position: absolute;
+        top: 156px;
+        left: -327px;
+        font-family: 'Bebas Neue', sans-serif;
+    }
+    .foot5{
+          position:absolute;
+            left:-374px;
+            top:-25px;
+            transform: rotate(90deg);
+    }
+    .foot6{
+         position:absolute;
+    margin-left:-69px;
+    margin-top:-103px;
+      transform: scale(0.7);
+
+    }
+    .ryt{
+         width: 249px;
+    height: 300px;
+    position: absolute;
+    left: 603px;
+    top: -72px;
+     border-bottom-right-radius: 25px;
+     border-top-right-radius: 25px; 
+     background-color: white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    background-color: #002f6c;
+    height: 72px;
+    border-top-right-radius: 25px;
+    }
+    .ryt1{
+        position: absolute;
+left: 25px;
+top: 23px;
+    }
+    .ryt2{
+            position: absolute;
+left: 123px;
+top: 18px;
+    }
+    .ryt3{
+          position: absolute;
+left: 42px;
+top: 5px;
+    }
+    .ryt4{
+         position: absolute;
+    top: 78px;
+    left: 16px;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 11px;
+    }
+    .ryt5{
+          position: absolute;
+    top: 115px;
+    left: 17px;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 11px;
+    }
+    .ryt6{
+            position: absolute;
+    top: 0px;
+    left: 69px;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 11px;
+    }
+    .ryt7{
+         position: absolute;
+    top: 39px;
+    left: -70px;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 11px;
+    }
+    .ryt8{
+         position: absolute;
+    top:39px;
+    left: 0px;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 11px;
+    }
+    .ryt9{
+            position: absolute;
+    top: 51px;
+    left: 1px;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 11px;
+    }
+    .ryt10{
+          position:absolute;
+    right:-140px;
+    top:90px;
+    color: #000000;
+    transform: scale(0.8);
+    }
+
+    .c1{
+width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+  left: -22px;
+  top: -117px;
+  position: absolute;
+}
+.c2{
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+  left: -22px;
+  top: -96px;
+  position: absolute;
+}
+.c3{
+       width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+ left: -22px;
+  top: -70px;
+  position: absolute;
+}
+.c4{
+        width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+  left: -22px;
+  top: -47px;
+  position: absolute;
+}
+.c5{
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+   left: -22px;
+  top: -22px;
+  position: absolute;
+}
+.c6{
+    width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+   left: -22px;
+  top: 2px;
+  position: absolute;
+}
+.c7{
+       width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+   left: -22px;
+  top: 24px;
+  position: absolute;
+}
+.c8{
+      width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+  left: -22px;
+  top: 46px;
+  position: absolute;
+}
+.c9{
+    width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+  left: -22px;
+  top: 68px;
+  position: absolute;
+}
+.c10{
+        width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+   left: -22px;
+  top: 91px;
+  position: absolute;
+}
+
+.c11{
+    width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+  left: -22px;
+  top: 114px;
+  position: absolute;
+}
+
+.c12{
+    width: 10px;
+  height: 10px;
+  background-color: white;
+  border: 1px solid #ccc; 
+  border-radius: 50%;
+   left: -22px;
+  top: 138px;
+  position: absolute;
+} 
+.rytll{
+    width: 247px;
+        height: 13px;
+        position: absolute;
+        top:140px;
+        left: -10px;
+        border-bottom-right-radius: 25px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
