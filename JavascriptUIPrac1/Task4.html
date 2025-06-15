@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="myinput">
+    <button onclick="press()">Click</button>
+    <p id="output"></p>
+    <script>
+        function press(){
+            var inputvalue=document.getElementById("myinput").value;
+            document.getElementById("output").innerHTML=inputvalue
+        }
+    </script>
+</body>
+</html>
