@@ -8,7 +8,7 @@ const projects = [
     title: "Portfolio Website",
     description:
       "A responsive personal portfolio built with React and Material UI.",
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/AbinayaMP/Karka/tree/main/Portfolio",
   },
   {
     title: "Bloom – Responsive Webpage",
